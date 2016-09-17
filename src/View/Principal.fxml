@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="330.0" prefWidth="443.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.PrincipalController">
+   <children>
+      <Button fx:id="cone" layoutX="38.0" layoutY="197.0" mnemonicParsing="false" prefHeight="75.0" prefWidth="150.0" text="Listar Empresa">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="conp" layoutX="256.0" layoutY="195.0" mnemonicParsing="false" prefHeight="75.0" prefWidth="150.0" text="Listar Pessoa">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="cade" layoutX="37.0" layoutY="59.0" mnemonicParsing="false" prefHeight="75.0" prefWidth="150.0" text="Cadastrar Empresa">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </Button>
+      <Button fx:id="cadp" layoutX="256.0" layoutY="59.0" mnemonicParsing="false" prefHeight="75.0" prefWidth="150.0" text="Cadastrar Pessoa">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
