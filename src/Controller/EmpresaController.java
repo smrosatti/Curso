@@ -30,6 +30,7 @@ import javafx.scene.input.MouseEvent;
 public class EmpresaController implements Initializable {
 
     public void cadastrar() {
+        //comentario
         try {
             Empresa emp = new Empresa();
             emp.setNome(nome.getText());
