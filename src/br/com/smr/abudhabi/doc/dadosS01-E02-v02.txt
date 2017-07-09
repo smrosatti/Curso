@@ -1,0 +1,5 @@
+Pessoa;true
+null;8
+null;2
+getValor;false
+Fornecedor;true
